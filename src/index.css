@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  fontFamily: {
+    sans: ["Inter", "sans-serif"],
+    mono: ["JetBrains Mono", "monospace"],
+  },
+  colors: {
+    primary: "#4F46E5",
+    secondary: "#6366F1",
+    accent: "#8B5CF6",
+    background: "#F3F4F6",
+    text: "#111827",
+  },
+}
